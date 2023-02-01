@@ -1,7 +1,6 @@
 # Yelp-Search-Full-Stack-Project
 This is a full stack project that uses Yelp api to perform business search, recommendation and reservation.
-I've developed a web application version and an Android app version.
-
+I've developed a responsive web application version and an Android app version.
 The link to the web application is: https://angular-project-53460.wl.r.appspot.com/search
 
 The video demo for the Android app is below:
